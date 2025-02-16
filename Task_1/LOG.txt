@@ -1,0 +1,146 @@
+Сьогодні: Sun Feb 16 20:35:19 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+Finish
+Сьогодні: Sun Feb 16 20:36:53 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+Finish
+Сьогодні: Sun Feb 16 20:37:42 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+Finish
+Сьогодні: Sun Feb 16 20:39:29 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+Finish
+Сьогодні: Sun Feb 16 20:41:01 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+Finish
+Сьогодні: Sun Feb 16 20:41:44 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+http://acode.com.ua is UP
+https://acode.com.ua is UP
+Finish
+Сьогодні: Sun Feb 16 20:42:38 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+http://acode.com.ua is UP
+https://acode.com.ua is UP
+http://videocamera.com.ua is DOWN or RESPONSE (answer from: )
+https://videocamera.com.ua is DOWN or RESPONSE (answer from: )
+Finish
+Сьогодні: Sun Feb 16 20:45:55 EET 2025
+Перевірка доступності сайтів із списку...
+http://deepl.com is UP
+https://deepl.com is UP
+http://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/1.0 308 Permanent Redirect)
+https://edu.goit.global is DOWN or RESPONSE (answer from: HTTP/2 308 )
+http://youtube.com is UP
+https://youtube.com is UP
+http://google.com is UP
+https://google.com is UP
+http://facebook.com is UP
+https://facebook.com is UP
+http://twitter.com is UP
+https://twitter.com is DOWN or RESPONSE (answer from: HTTP/2 403 )
+http://ukr.net is UP
+https://ukr.net is UP
+http://acode.com.ua is UP
+https://acode.com.ua is UP
+http://videocamera.com.ua is DOWN or RESPONSE (answer from: )
+https://videocamera.com.ua is DOWN or RESPONSE (answer from: )
+Finish
